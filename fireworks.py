@@ -11,7 +11,7 @@ fade_p = []  # Lista para almacenar partículas en proceso de desvanecimiento
 GRAVITY_FIREWORK = vector2(0, 0.3)  # Gravedad para el fuego artificial
 GRAVITY_PARTICLE = vector2(0, 0.07)  # Gravedad para las partículas
 DISPLAY_WIDTH = DISPLAY_HEIGHT = 1000  # Tamaño de la ventana
-BACKGROUND_COLOR = (10, 10, 40)  # Color de fondo de la pantalla
+BACKGROUND_COLOR = (0, 6, 40)  # Color de fondo de la pantalla
 STAR_COLOR = (255, 255, 255)
 NUM_STARS = 100
 
